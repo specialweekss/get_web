@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "创建抽签",
+  "usingComponents": {
+    "item-vue": "./Item"
+  }
+}

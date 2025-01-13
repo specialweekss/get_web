@@ -1,0 +1,1 @@
+<view class="item"><input class="{{['text', 'input', a && 'none']}}" bindfocus="{{b}}" bindblur="{{c}}" value="{{d}}" bindinput="{{e}}"></input><view class="set"><view class="text">数量：{{f}}</view><view class="button button_add" bindtap="{{g}}">+</view><view class="button button_delete" bindtap="{{h}}">-</view></view></view>

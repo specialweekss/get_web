@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/create/create",
+    "pages/check/check",
+    "pages/check/GetContent",
+    "pages/Get/Get",
+    "pages/Get/Ans"
+  ],
+  "window": {
+    "navigationStyle": "default",
+    "navigationBarBackgroundColor": "#008080"
+  },
+  "usingComponents": {}
+}

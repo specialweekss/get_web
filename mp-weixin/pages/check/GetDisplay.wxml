@@ -1,0 +1,1 @@
+<view class="display"><navigator style="width:100%" url="{{d}}"><view class="display_up"><view class="text" style="width:100%">{{a}}</view></view><view class="text display_down" style="{{'color:' + c}}"> 状态:{{b}}</view></navigator></view>

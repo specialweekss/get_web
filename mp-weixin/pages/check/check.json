@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的抽签",
+  "usingComponents": {
+    "get-display": "./GetDisplay"
+  }
+}

@@ -1,0 +1,56 @@
+.text{
+	font-size: 48rpx;
+	color: black;
+	text-align: center;
+}
+.none{
+	color: gray;
+}
+.content{
+	display: flex;
+	gap: 5vh;
+	flex-direction: column;
+	align-items: center;
+}
+.title{
+	font-size: 70rpx;
+	height: 20vh;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+.button {
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  height: 15vh;
+	  aspect-ratio: 1/1;
+	  border-radius: 50%;
+	  border: 2px solid black;
+	  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 加强阴影效果 */
+	  font-size: 36rpx;
+	  color: white;
+	  transition: all 0.3s ease;
+}
+.button:hover {
+	  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+	   font-size: 40rpx;
+	   color: white;
+	  text-align: center;/* 加强阴影效果 */
+}
+.button-create{
+		background-color: cadetblue;
+}
+.button-create:hover{
+		background-color: #00aaff; /* 改变背景颜色 */
+}
+.button-check{
+		background-color: chocolate;
+}
+.button-check:hover{
+		background-color: orangered; /* 改变背景颜色 */
+}
+
+
+
+	

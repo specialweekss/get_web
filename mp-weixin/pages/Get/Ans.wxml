@@ -1,0 +1,1 @@
+<view class="content"><view class="text title">{{a}}</view><view class="ans"><view class="text ans-text">你抽中了</view><view class="text ans-text">{{b}}！</view></view></view>

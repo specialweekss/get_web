@@ -1,0 +1,1 @@
+<view class="content"><view class="text title">{{a}}</view><input type="nickname" class="text" placeholder="请输入昵称" value="{{b}}" bindinput="{{c}}"/><button class="button button-create" bindtap="{{d}}">抽签</button></view>

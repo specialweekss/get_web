@@ -1,0 +1,1 @@
+<view class="content" style="padding-bottom:5vh"><view class="text title">{{a}}</view><view wx:for="{{b}}" wx:for-item="item" style="width:100%" class="content"><get-item-vue wx:if="{{item.b}}" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></get-item-vue></view></view>

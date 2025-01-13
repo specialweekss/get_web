@@ -1,0 +1,26 @@
+.text{
+	font-size: 48rpx;
+	color: black;
+	text-align: center;
+}
+.none{
+	color: gray;
+}
+.content{
+	display: flex;
+	gap: 5vh;
+	flex-direction: column;
+	align-items: center;
+}
+.title{
+	font-size: 70rpx;
+	height: 20vh;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+.buttom{
+		display: flex;
+		gap:10vw;
+		justify-content: center;
+}

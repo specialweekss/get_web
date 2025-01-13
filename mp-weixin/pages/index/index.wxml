@@ -1,0 +1,1 @@
+<view class="content"><view class="background" style="{{a}}"></view><view class="contaner"><button class="button button-create" bindtap="{{b}}">创建抽签</button></view><view class="contaner"><view class="text"></view><button class="button button-check" bindtap="{{c}}">我的抽签</button></view></view>

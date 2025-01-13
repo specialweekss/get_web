@@ -1,0 +1,1 @@
+<view class="total-item"><view class="get-item"><view class="text input">{{a}}</view><view class="set"><view class="text">数量：{{b}}</view></view></view><view wx:for="{{c}}" wx:for-item="item"><view class="text member"> 中签人：{{item.a}}</view></view></view>

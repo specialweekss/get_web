@@ -1,0 +1,66 @@
+.text{
+	font-size: 48rpx;
+	color: black;
+	text-align: center;
+}
+.none{
+	color: gray;
+}
+.content{
+	display: flex;
+	gap: 5vh;
+	flex-direction: column;
+	align-items: center;
+}
+.title{
+	font-size: 70rpx;
+	height: 20vh;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+.item{
+	
+	height: 10vh;
+	width: 90vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2rpx dashed black;
+	border-radius: 10px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.set{
+	width: 70%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+}
+.input{
+	width: 30%;
+	text-align: center;
+}
+.button{
+	height: 50%;
+	aspect-ratio: 1/1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2rpx solid black;
+	border-radius: 50%;
+	transition: all 0.3s ease;
+}
+.button_add{
+	background-color: aqua
+}
+.button_delete{
+	background-color: red
+}
+.button_add:hover{
+	background-color: royalblue
+}
+.button_delete:hover{
+	background-color: darkred;
+}
